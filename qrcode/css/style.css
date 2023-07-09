@@ -1,0 +1,36 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.borda{
+    margin: auto;
+    margin-top: 200px;
+    width: 300px;
+    height: 490px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+.text{
+    padding-bottom: 10px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+}
+
+.titulo{
+    color: hsl(218, 44%, 22%);
+}
+
+.paragrafo{
+    color: hsl(220, 15%, 55%);
+}
+
+.image{
+    border:solid hsl(0, 0%, 100%) 15px;
+    border-radius: 25px 25px 25px 25px;  
+    padding-bottom: 0px;  
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
